@@ -1654,11 +1654,11 @@ section {
 
 .btn-wsp{
   position:fixed;
-  width:60px;
-  height:60px;
-  line-height: 63px;
-  bottom:60px;
-  right:5px;
+  width:50px;
+  height:50px;
+  line-height: 50px;
+  bottom:59px;
+  right:10px;
   background:#25d366;
   color:#FFF;
   border-radius:50px;
@@ -1673,8 +1673,8 @@ section {
 }
 @media only screen and (min-width:320px) and (max-width:768px){
   .btn-wsp{
-      width:63px;
-      height:63px;
-      line-height: 66px;
+      width:50px;
+      height:50px;
+      line-height: 50px;
 }
 }
